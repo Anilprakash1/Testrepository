@@ -1,0 +1,16 @@
+
+Condition not satisfied:
+
+title == "Welcome"
+|     |
+|     false
+|     18 differences (10% similarity)
+|     (S)e(-)c(urity H)e(alth Plan)
+|     (W)e(l)c(om-----)e(---------)
+Security Health Plan
+ <Click to see difference>
+
+	at com.resultech.Smoke.LoginSpec.Verify User Login in SHP Client QA(LoginSpec.groovy:90)
+
+Jul 19, 2013 7:01:58 PM java_util_logging_Logger$info call
+INFO: Login page is displayed

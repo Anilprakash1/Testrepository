@@ -1,0 +1,9 @@
+Jul 19, 2013 7:13:19 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Login page is displayed
+Jul 19, 2013 7:13:23 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Logged in Broker's name is displayed with a welcome message
+Exception in thread "Thread-1" java.lang.NullPointerException
+	at org.openqa.selenium.io.FileHandler.delete(FileHandler.java:189)
+	at org.openqa.selenium.io.FileHandler.delete(FileHandler.java:190)
+	at org.openqa.selenium.io.TemporaryFilesystem.deleteTemporaryFiles(TemporaryFilesystem.java:129)
+	at org.openqa.selenium.io.TemporaryFilesystem$1.run(TemporaryFilesystem.java:36)

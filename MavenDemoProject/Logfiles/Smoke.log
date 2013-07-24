@@ -1,0 +1,16 @@
+Jul 19, 2013 12:33:13 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Login page is displayed
+Jul 19, 2013 12:33:16 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Logged in Broker's name is displayed with a welcome message
+Jul 19, 2013 12:33:16 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: PASS
+Warning:  Range A2-B2 contains more than one data cell.  Setting the other cells to blank.
+07/19/2013 12:33:16
+Jul 19, 2013 12:33:50 PM java_util_logging_Logger$info call
+INFO: Login page is displayed
+07/19/2013 12:34:09
+Jul 19, 2013 12:34:09 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Logged in Broker's name is displayed with a welcome message
+Jul 19, 2013 12:34:09 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: PASS
+Warning:  Range A2-B2 contains more than one data cell.  Setting the other cells to blank.

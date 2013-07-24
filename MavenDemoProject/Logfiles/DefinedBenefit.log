@@ -1,0 +1,40 @@
+Jul 24, 2013 12:39:43 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Logged in  broker name is displayed with welcome message is displayed
+Jul 24, 2013 12:39:47 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Defined Benefit option is displayed
+Jul 24, 2013 12:40:07 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Owner details are displayed
+Jul 24, 2013 12:40:07 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: By default Medical option is selected for Product Selection
+Jul 24, 2013 12:40:35 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Case1st1374649724109 is displayed
+Jul 24, 2013 12:41:34 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Case1st1374649724109 is displayed in plans page
+[Hip N Trendy Health, $1250/$2500, 80/60, $15, $20/$30]
+Jul 24, 2013 12:42:15 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Employee details are displayed
+Jul 24, 2013 12:42:49 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Pop up with text Proposal generation and delivery completed is displayed
+Jul 24, 2013 12:43:03 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Created by and Select plans are displayed
+Jul 24, 2013 12:43:13 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Eligible employees details are displayed
+Jul 24, 2013 12:43:17 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Case is retrieved in recent activities
+07/24/2013
+Jul 24, 2013 12:43:45 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Case summary details are displayed
+Jul 24, 2013 12:44:04 PM java_util_logging_Logger$info call
+INFO: Quote number of caseCase1st1374649724109is 
+
+log4j:WARN No appenders could be found for logger (org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager).
+log4j:WARN Please initialize the log4j system properly.
+Jul 24, 2013 12:44:20 PM sun.reflect.NativeMethodAccessorImpl invoke0
+INFO: Case is retrieved in work queue page
+Exception in thread "Thread-1" java.lang.NullPointerException
+	at org.openqa.selenium.io.FileHandler.delete(FileHandler.java:132)
+	at org.openqa.selenium.io.FileHandler.delete(FileHandler.java:133)
+	at org.openqa.selenium.io.FileHandler.delete(FileHandler.java:133)
+	at org.openqa.selenium.io.FileHandler.delete(FileHandler.java:133)
+	at org.openqa.selenium.io.TemporaryFilesystem.deleteTemporaryFiles(TemporaryFilesystem.java:129)
+	at org.openqa.selenium.io.TemporaryFilesystem$1.run(TemporaryFilesystem.java:36)
